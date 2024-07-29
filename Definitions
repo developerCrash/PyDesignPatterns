@@ -1,0 +1,34 @@
+Creational Design Patterns
+==========================
+
+In software engineering, creational design patterns are design patterns that help create objects in a way that's suitable for the situation. 
+They can help reduce complexity and make the object instantiation process more flexible and efficient. 
+Creational design patterns can be useful in scenarios where the nature of the object changes depending on the problem at hand. 
+
+Singleton 
+Builder
+Factory 
+Prototype & Registry 
+
+
+Structural Design Patterns
+==========================
+
+Structural design patterns are blueprints that show how to combine different objects and classes to form a larger structure that can achieve multiple goals. 
+They are often used in large projects with many different classes and objects. Structural design patterns help to show how unique parts of a system can be combined in a flexible and extensible way. 
+They also make it easier to understand the relationships between different classes. 
+
+Decorator 
+Adapter 
+FlyWeight 
+
+
+Behavioural Design Patterns 
+============================
+Behavioral design patterns are a type of design pattern in software engineering that focus on how objects communicate and interact with each other in a system. 
+These patterns define algorithms and assign responsibilities between objects, which can make communication easier and more flexible. 
+They can also improve the flexibility and maintainability of code, and reduce complicated software design structures into simpler interconnections.
+
+Observer 
+Command 
+Strategy 
